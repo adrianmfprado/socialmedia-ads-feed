@@ -8,7 +8,7 @@ objetivo: construir uma aplicação SPA com React que busque uma lista de public
 
 
  - construir o layout do componente seguindo o modelo do figma ([disponível aqui](https://www.figma.com/file/HFLKG8ZtLaQSuJFJv2Ii7M/Facebook-Ads-Post?node-id=0%3A1))
- - utilizar a biblioteca axios ([disponíve aqui](https://www.npmjs.com/package/axios)) para buscar e pegar os dados na api através de requisições http
+ - utilizar a biblioteca axios ([disponível aqui](https://www.npmjs.com/package/axios)) para buscar e pegar os dados na api através de requisições http
  - utilizar o endereço da api pública pre-selecionada ```https://api.npoint.io/144c46739f80c9eeb6b7``` ([disponível aqui](https://api.npoint.io/144c46739f80c9eeb6b7))
 
 
