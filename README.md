@@ -4,7 +4,7 @@ projeto para encerramento do módulo 02, aplicando os conhecimentos obtidos sobr
 
 ## instruções
 
-objetivo: construir uma aplicação SPA com React que busque uma lista de publicidades de uma rede social em uma api pública e construa na página através de componentes um widget que exiba os anúncios em forma de feed, mostrando seu conteúdo, e suas interações (curtidas, compartilhamentos e comentários).
+objetivo: construir uma aplicação SPA com React que busque uma lista de publicidades de uma rede social em uma api pública e construa na página, através de componentes, um widget que exiba os anúncios em forma de feed, mostrando seu conteúdo e suas interações (curtidas, compartilhamentos e comentários).
 
 
  - construir o layout do componente seguindo o modelo do figma ([disponível aqui](https://www.figma.com/file/HFLKG8ZtLaQSuJFJv2Ii7M/Facebook-Ads-Post?node-id=0%3A1))
@@ -18,7 +18,7 @@ na construção da página da aplicação, fica a cargo do aluno pensar e desenv
 
 ## detalhes
 
-o que mais será avaliado será a preocupação com os detalhes. pensar em soluções para os pequenos detalhes dos componentes utilizando as ferramentas e o ciclo de vida dos componentes do React. alguns detalhes para se atentar (por exemplo):
+além disso, será avaliada a preocupação com os detalhes. pensar em soluções para os pequenos detalhes dos componentes utilizando as ferramentas e o ciclo de vida dos componentes do React. alguns pontos para se atentar (por exemplo):
 
  - enquanto estiver carregando dados da api, exibir uma mensagem ou um ícone de "carregando..."
  - tratar o conteúdo dos posts e dos comentários para identificar links e hashtags automáticamente
@@ -38,11 +38,11 @@ serão consideradas como "pontos extras" as seguintes situações:
 
 ## entrega
 
-a entrega deve ser feita pelo classroom, como já de costume, lá deve ser registrado o link do repositório público do git contendo a aplicação desenvolvida.
+a entrega deve ser feita pelo classroom, como já de costume, nele deve ser registrado o link do repositório público do git contendo a aplicação desenvolvida.
 
 
 ## considerações finais
 
-o maior intuito deste projeto é fornecer um caso de uso próximo da realidade do mercado (consumo de apis e atividades e exercícios de lógica como de uma rede social) para que dentro desse contexto seja possível explorar a criatividade e a capacidade de pensar e desenvolver soluções para os problemas apresentados.
+o maior intuito deste projeto é fornecer um caso de uso próximo da realidade do mercado (consumo de apis e atividades e exercícios de lógica como de uma rede social) para que, dentro desse contexto, seja possível explorar a criatividade e a capacidade de pensar e desenvolver soluções para os problemas apresentados.
 
 fico à disposição para esclarecer qualquer dúvida.
